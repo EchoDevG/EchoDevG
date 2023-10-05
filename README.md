@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I'm Echo, a sixth form student studying Computer Science, Physics and Mathematics. I'm an avid programmer and have written many little tools and toys for the computer, and some of them even work! I primarily use C# and WPF, although I started out on VB.NET years ago.
+I'm Echo, a University student studying Computer Science, Physics and Mathematics. I'm an avid programmer and have written many little tools and toys for the computer, and some of them even work! I primarily use C# and WPF, although I started out on VB.NET years ago.
 
 ## What have I worked on?
 
@@ -10,7 +10,7 @@ I've worked on Trigger Fixer, a browser extension to replace certain words for p
 
 ## What next?
 
-I'm planning on studying Software Engineering at university, with the end goal of getting a job in the industry.
+I'm hoping to come out of uni with a masters in software engineering, and take that into the world of work.
 
 ## My stats:
 
